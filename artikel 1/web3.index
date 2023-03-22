@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>KokiMilenial</title>
+	<link rel="stylesheet" type="text/css" href="web3.css">
+</head>
+<body>
+	<header>
+	<h1>KokiMilenial</h1>
+		<div class="search-container">
+		<input type="text" placeholder="cari..." class="search-box">
+		<button type="submit" class="search-button">Cari</button>
+			</form>
+		</div>
+	</header>
+	<nav>
+		<div class="container">
+			<article>
+				<h2>Cara Membuat Rendang ala Rumahan yang Lezat</h2>
+				 <img src="gambarrendang.jpg" id="gambarrendang">
+				 <p>Rendang adalah hidangan khas Indonesia yang terkenal di seluruh dunia. Hidangan ini terbuat dari daging sapi yang dimasak dalam campuran rempah-rempah khas Indonesia yang kemudian direbus hingga bumbu meresap ke dalam daging. Rendang memiliki rasa yang lezat dan kaya dengan citarasa pedas, manis, dan gurih yang khas. Rendang sering disajikan dalam acara-acara khusus seperti pernikahan, lebaran, dan acara keluarga.
+				<p>berikut ini adalah resep dan tata cara membuat Rendang yang enak dan terlezat:
+<p>Bahan-bahan:
+<ul>
+<li>1 kg daging sapi</li>
+<li>10 buah cabe merah keriting</li>
+<li>5 buah cabe rawit</li>
+<li>10 siung bawang merah</li>
+<li>5 siung bawang putih</li>
+<li>2 lembar daun salam</li>
+<li>2 batang serai</li>
+<li>4 lembar daun jeruk</li>
+<li>2 cm lengkuas, memarkan</li>
+<li>1 buah kelapa parut, ambil santannya</li>
+<li>2 sendok makan gula merah</li>
+<li>2 sendok makan garam</li>
+<li>Minyak goreng secukupnya</li>
+</ul>
+
+<P>Cara Membuat:
+<ol>
+<li>Potong daging sapi menjadi potongan kecil dan tipis. Kemudian rebus daging sapi dalam air mendidih selama 15 menit hingga daging empuk. Setelah itu, tiriskan dan sisihkan.</li>
+<li>Blender cabe merah, cabe rawit, bawang merah, dan bawang putih hingga halus.</li>
+<li>Panaskan minyak goreng dalam wajan dan tumis bumbu halus hingga harum.</li>
+<li>Masukkan daun salam, serai, daun jeruk, dan lengkuas. Aduk rata.</li>
+<li>Tambahkan daging sapi yang sudah direbus ke dalam wajan dan aduk rata.</li>
+<li>Tambahkan santan kelapa, gula merah, dan garam. Aduk rata dan masak dengan api kecil hingga kuah meresap ke dalam daging dan kering. Hal ini membutuhkan waktu sekitar 2-3 jam.</li>
+<li>Setelah kuah meresap ke dalam daging, aduk rendang hingga terlihat kering dan berwarna coklat kehitaman.</li>
+</ol>
+<p>Sajikan rendang dengan nasi putih dan irisan ketimun serta tomat sebagai pelengkapnya.</p>
+<p>Tips untuk membuat rendang yang lezat:</p>
+<ul>
+<li>Gunakan daging sapi yang bagus dan berkualitas agar rendang terasa empuk dan lezat.</li>
+<li>Jangan terlalu sering mengaduk rendang agar bumbu meresap ke dalam daging dengan baik.</li>
+<li>Tambahkan santan kelapa secukupnya agar rendang memiliki rasa yang kaya dan gurih.</li>
+<li>Perhatikan suhu dan waktu memasak agar rendang matang dengan baik dan bumbu meresap ke dalam daging dengan sempurna.</li>
+<li>Simpan rendang di dalam kulkas setelah dingin agar rendang dapat tahan lebih lama dan semakin lezat.</li>
+</ul>
+<p>Semoga resep dan cara membuat nasi goreng ini bermanfaat dan dapat membantu Anda membuat hidangan yang lezat dan terlezat. Selamat mencoba!</p>
+<p>Ingin mengeksplorasi variasi menu yang berbeda? Kami punya banyak resep spesial lainnya, seperti rendang, soto, atau gado-gado yang pasti akan memanjakan lidah Anda.</p>			
+			</article>
+		</div>
+		<div class="related-articles">
+  <h2>Artikel Terkait</h2>
+  <ul>
+    <li>
+      <a href="#">
+        <img src="gambarnasigoreng.jpg" alt="gambarnasigoreng">
+        <h3>Nasi goreng terlezat</h3>
+      </a>
+    </li>
+    <li>
+      <a href="#">
+        <img src="gambartoraja.jpg.jpg" alt="Gambar artikel 2">
+        <h3>Judul Artikel 2</h3>
+      </a>
+    </li>
+    <li>
+      <a href="#">
+        <img src="gambartoraja.jpg.jpg" alt="Gambar artikel 3">
+        <h3>Judul Artikel 3</h3>
+      </a>
+    </li>
+	<li>
+	<a href="#">
+	 <img src="gambartoraja.jpg.jpg" alt="Gambar artikel 3">
+        <h3>Judul Artikel 3</h3>
+      </a>
+    </li>
+  </ul>
+</div>
+		</div>
+	</nav>
+	</main>
+	<footer>
+		<div class="container">
+			<p>&copy; 2023 www.KokiModeren.com</p>
+		</div>
+	</footer>
+</body>
+</html>
+
+
+
+
+
+
+
